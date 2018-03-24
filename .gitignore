@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+cifar-10-batches-py
+preprocess_*
